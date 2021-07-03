@@ -1,0 +1,11 @@
+#background
+{
+	background-color: red;
+}
+.login_1 , .login_2
+{
+	background: white;
+	padding: 10px;		
+    float: none;
+	border-radius: 15px;
+}
